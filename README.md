@@ -16,5 +16,4 @@ A twitter bot - [crackmeupbot](https://twitter.com/crackmeupbot) that tweets an 
 
 Example:
 > @crackmeupbot #crackmeup with a blond joke
-
 Categories available on the API README page.
